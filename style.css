@@ -36,6 +36,7 @@ img {
 }
 .btn-primary a {
   color: #f7efef;
+  text-decoration: none;
 }
 .btn-primary:hover {
   font-size: 20px;
