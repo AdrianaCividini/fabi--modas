@@ -33,6 +33,8 @@ img {
   background-color: rgb(14, 14, 14);
   font-size: 15px;
   font-weight: 700;
+}
+.btn-primary a {
   color: #f7efef;
 }
 .btn-primary:hover {
